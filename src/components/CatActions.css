@@ -1,0 +1,37 @@
+.cat-actions {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0;
+    flex: 1;
+  }
+  
+  .btn-dislike,
+  .btn-like {
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;  /* Bordas arredondadas */
+    border: 2px solid;
+    outline: none;
+    background-color: transparent;
+    cursor: pointer;
+    margin: 10px;
+  }
+  
+  .btn-dislike img,
+  .btn-like img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .btn-dislike.clicked,
+.btn-like.clicked {
+  transform: scale(1.1); /* Aumenta o tamanho do botão em 10% quando clicado */
+  transition: transform 0.3s ease-out; /* Animação suave para o tamanho do botão */
+}
+
+.btn-dislike.clicked img,
+.btn-like.clicked img {
+  opacity: 0.7;  /* Diminui a opacidade da imagem quando o botão é clicado */
+}
+ 
+  

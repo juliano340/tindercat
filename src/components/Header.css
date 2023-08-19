@@ -1,0 +1,40 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;    
+    width: 100%;
+    background-color: #E74646;
+    border-bottom: 1px solid #ddd;
+  }
+
+  .header,p {
+    color: #ddd;
+    font-size: 30px;
+    margin: 0px;
+    padding: 5px;
+  }
+  
+  .header-item {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    padding: 5px 10px;
+    border-radius: 5px;
+    transition: background-color 0.2s ease;
+  }
+  
+  .header-item:hover {
+    
+    transform: scale(1.1); /* Aumenta o tamanho do botão em 10% quando clicado */
+  transition: transform 0.3s ease-out; /* Animação suave para o tamanho do botão */
+  }
+  
+  .header-item img {
+    margin-right: 10px;
+    height: 50px;
+  }
+  
+  .header-item.active {
+    /* background-color: #ddd; */
+  }
+  
