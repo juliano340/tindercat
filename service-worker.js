@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/tindercat/precache-manifest.e17d0d16fcf7d3106deb0abb05424cc5.js"
+  "https://juliano340.com/tindercat/precache-manifest.906746cac14db18d2177cd78a2be23ad.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/tindercat/index.html", {
+workbox.routing.registerNavigationRoute("https://juliano340.com/tindercat/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
