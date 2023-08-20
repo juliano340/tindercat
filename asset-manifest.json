@@ -1,13 +1,13 @@
 {
-  "main.css": "https://juliano340.com/tindercat/static/css/main.1e1287c3.chunk.css",
-  "main.js": "https://juliano340.com/tindercat/static/js/main.9a6e1ba5.chunk.js",
-  "main.js.map": "https://juliano340.com/tindercat/static/js/main.9a6e1ba5.chunk.js.map",
-  "static/js/1.f4162356.chunk.js": "https://juliano340.com/tindercat/static/js/1.f4162356.chunk.js",
-  "static/js/1.f4162356.chunk.js.map": "https://juliano340.com/tindercat/static/js/1.f4162356.chunk.js.map",
-  "runtime~main.js": "https://juliano340.com/tindercat/static/js/runtime~main.0a3170ed.js",
-  "runtime~main.js.map": "https://juliano340.com/tindercat/static/js/runtime~main.0a3170ed.js.map",
-  "static/css/main.1e1287c3.chunk.css.map": "https://juliano340.com/tindercat/static/css/main.1e1287c3.chunk.css.map",
-  "index.html": "https://juliano340.com/tindercat/index.html",
-  "precache-manifest.906746cac14db18d2177cd78a2be23ad.js": "https://juliano340.com/tindercat/precache-manifest.906746cac14db18d2177cd78a2be23ad.js",
-  "service-worker.js": "https://juliano340.com/tindercat/service-worker.js"
+  "main.css": "https://juliano340.github.io/tindercat/static/css/main.1e1287c3.chunk.css",
+  "main.js": "https://juliano340.github.io/tindercat/static/js/main.9a6e1ba5.chunk.js",
+  "main.js.map": "https://juliano340.github.io/tindercat/static/js/main.9a6e1ba5.chunk.js.map",
+  "static/js/1.f4162356.chunk.js": "https://juliano340.github.io/tindercat/static/js/1.f4162356.chunk.js",
+  "static/js/1.f4162356.chunk.js.map": "https://juliano340.github.io/tindercat/static/js/1.f4162356.chunk.js.map",
+  "runtime~main.js": "https://juliano340.github.io/tindercat/static/js/runtime~main.72d2e518.js",
+  "runtime~main.js.map": "https://juliano340.github.io/tindercat/static/js/runtime~main.72d2e518.js.map",
+  "static/css/main.1e1287c3.chunk.css.map": "https://juliano340.github.io/tindercat/static/css/main.1e1287c3.chunk.css.map",
+  "index.html": "https://juliano340.github.io/tindercat/index.html",
+  "precache-manifest.bf83f763cc3757f1a14a244a33fddb19.js": "https://juliano340.github.io/tindercat/precache-manifest.bf83f763cc3757f1a14a244a33fddb19.js",
+  "service-worker.js": "https://juliano340.github.io/tindercat/service-worker.js"
 }
