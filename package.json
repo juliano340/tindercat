@@ -2,7 +2,7 @@
   "name": "tindercat",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://juliano340.com/tindercat/",
+  "homepage": "https://github-username.github.io/nome-do-repositorio",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",

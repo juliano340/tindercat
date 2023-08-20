@@ -105,7 +105,7 @@ function App() {
       {showSplash ? (
 
         <div>
-          <img src="logo.png" alt="TinderCat Logo" />
+          <img src="Logo.png" alt="TinderCat Logo" />
         </div>
 
       ) : (
