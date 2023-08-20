@@ -23,13 +23,13 @@ function CatActions({ onDislike, onLike }) {
         className={`btn-dislike ${isDislikeClicked ? 'clicked' : ''}`} 
         onClick={handleDislikeClick}
       >
-        <img src="/nao-gosto.png" alt="Não Curtir" />
+        <img src="nao-gosto.png" alt="Não Curtir" />
       </button>
       <button 
         className={`btn-like ${isLikeClicked ? 'clicked' : ''}`} 
         onClick={handleLikeClick}
       >
-        <img src="/gostar.png" alt="Curtir" />
+        <img src="gostar.png" alt="Curtir" />
       </button>
     </div>
   );

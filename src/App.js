@@ -1,4 +1,6 @@
 import React, { useState, useEffect } from "react";
+import { BrowserRouter as Router } from 'react-router-dom';
+import { Route } from 'react-router-dom';
 
 import './App.css';
 import Header from './components/Header';
@@ -94,7 +96,10 @@ function App() {
   //PARTE VISUAL 
   return (
 
+
+
     <div className="App" style={appStyle}>
+     
 
 
       {showSplash ? (
@@ -113,7 +118,7 @@ function App() {
             <>
               <CatGallery imageUrl={catImage} setLoading={setLoading} />
               <CatActions onDislike={handleDislike} onLike={handleLike} />
-              
+
               <Footer />
             </>
           ) : (

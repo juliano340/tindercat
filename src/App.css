@@ -7,6 +7,7 @@
   height: auto;
   min-height: 100vh;
   background-color: #E74646;
+  max-width: 100%;
   
 
   
@@ -14,7 +15,7 @@
 
 .cat-gallery {
   max-width: 50%;
-  max-height: 100%;
+  max-height: 70vh;
   padding: 20px;
   text-align: center;
   background-color: #d9d9d9;
@@ -28,9 +29,24 @@
 .cat-gallery img {
   max-width: 100%;  
   height: auto;
-  max-height: 100%;
+  max-height: 60vh;
   border-radius: 10px;
   box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
 }
 
+/* CELULAR */
 
+@media (max-width: 768px) {
+  .cat-gallery {
+    max-width: 90%;
+    max-height: 90vh;
+    padding: 20px;
+    text-align: center;
+    background-color: #d9d9d9;
+    border-radius: 0px 0px 10px 10px;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
+    
+    
+    
+  }
+}
