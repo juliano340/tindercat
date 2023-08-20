@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "https://juliano340.github.io/tindercat/precache-manifest.bf83f763cc3757f1a14a244a33fddb19.js"
+  "https://juliano340.github.io/tindercat/precache-manifest.87ab50b7ea5b481b625f712d56b6ecd4.js"
 );
 
 workbox.clientsClaim();
